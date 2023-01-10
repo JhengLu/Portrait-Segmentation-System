@@ -1,4 +1,2 @@
-# 依赖
-
-- 项目HSegBenchmark
+# Dependency version
 - Qt 5.12.8
