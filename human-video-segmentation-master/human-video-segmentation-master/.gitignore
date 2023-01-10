@@ -1,0 +1,9 @@
+.idea
+.pytest_cache
+.pycache
+__pycache__
+saved
+images
+videos
+log
+data
