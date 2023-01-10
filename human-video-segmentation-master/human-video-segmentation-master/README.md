@@ -1,2 +1,2 @@
-# 模型Python源码
+# source code of the model
 
